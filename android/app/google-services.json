@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973690145508",
+    "project_id": "zero-flutter-2023",
+    "storage_bucket": "zero-flutter-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973690145508:android:8f1d4bcf7b92b08c78baf1",
+        "android_client_info": {
+          "package_name": "com.example.zeroapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwHc0074Gc0-I9bcUueR6DnpFYgQoVoM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
